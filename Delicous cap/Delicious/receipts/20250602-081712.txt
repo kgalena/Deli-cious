@@ -1,0 +1,11 @@
+--- Your Order Details ---
+Sandwiches:
+Sandwich 1:
+   Size: 8
+   Bread: white
+   Meats: steak
+   Cheeses: swiss
+   Other Toppings: lettuce, mushrooms
+   Sandwich Price: $10.50
+
+Total Order Price: $10.50
